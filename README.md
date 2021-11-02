@@ -1,8 +1,4 @@
 # How to use Paradox Export
+This is my first tiny script that might be interesting for others, and may safe some time 
 
-
-just run that Method with two Params: 
-1. Path of the Table
-2. Name of the .xlsx File
-tabelle_nach_excel_auslagern("Artikel.db,"Artikel")
---> Creates Artikel.xlsx
+who doesnt like copy and paste 
